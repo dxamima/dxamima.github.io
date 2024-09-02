@@ -8,4 +8,5 @@ Before contributing, you are required to read [CONTRIBUTING.MD](https://github.c
 
 # Credits
 @damimaa - Creator and contributor of the website
+
 @RejectModderss - Site maker
