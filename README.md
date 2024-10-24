@@ -1,6 +1,3 @@
-> [!WARNING]
-> This repository has been archived. Please [use the new one](https://github.com/damimaa/website) instead.
-
 # website
 Welcome to the repository of damima.im!
 
